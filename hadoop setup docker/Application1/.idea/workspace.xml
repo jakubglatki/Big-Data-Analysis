@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="OddEven:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="76289f52-a88e-447f-b245-94db19c9e29b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="alwaysUpdateSnapshots" value="true" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YIot3At4OzEKcSMWLCqGtnfxJp" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/META-INF/MANIFEST.MF" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.20574713" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="76289f52-a88e-447f-b245-94db19c9e29b" name="Default Changelist" comment="" />
+      <created>1582639681245</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582639681245</updated>
+      <workItem from="1582639686837" duration="722000" />
+      <workItem from="1582640421156" duration="4014000" />
+      <workItem from="1582645030529" duration="1154000" />
+      <workItem from="1582713840856" duration="130000" />
+      <workItem from="1582714051583" duration="143000" />
+      <workItem from="1582714227824" duration="178000" />
+      <workItem from="1582714441117" duration="313000" />
+      <workItem from="1582714763157" duration="953000" />
+      <workItem from="1593009491330" duration="2365000" />
+      <workItem from="1593090192982" duration="1763000" />
+      <workItem from="1593172904764" duration="57000" />
+      <workItem from="1593174140392" duration="6345000" />
+      <workItem from="1593195891152" duration="6469000" />
+      <workItem from="1593343302937" duration="513000" />
+      <workItem from="1593432060432" duration="1854000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="392" y="88" key="#Project_Structure" timestamp="1593010149155">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="392" y="88" key="#Project_Structure/0.0.1600.860/1600.0.1920.1040@0.0.1600.860" timestamp="1593010149155" />
+    <state x="580" y="184" key="FileChooserDialogImpl" timestamp="1593186705033">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="580" y="184" key="FileChooserDialogImpl/0.0.1600.860/1600.0.1920.1040@0.0.1600.860" timestamp="1593186705033" />
+    <state x="280" y="4" key="SettingsEditor" timestamp="1593187527023">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="280" y="4" key="SettingsEditor/0.0.1600.860/1600.0.1920.1040@0.0.1600.860" timestamp="1593187527023" />
+    <state x="92" y="92" width="1416" height="676" key="dock-window-1" timestamp="1593343396551">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="92" y="92" width="1416" height="676" key="dock-window-1/0.0.1600.860/1600.0.1920.1040@0.0.1600.860" timestamp="1593343396551" />
+    <state x="530" y="342" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1593193123066">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="530" y="342" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.0.1600.860/1600.0.1920.1040@0.0.1600.860" timestamp="1593193123066" />
+  </component>
+</project>
